@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492911147763",
+    "firebase_url": "https://drive-buddy-f068b.firebaseio.com",
+    "project_id": "drive-buddy-f068b",
+    "storage_bucket": "drive-buddy-f068b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492911147763:android:51f1f15d372c53d25b1586",
+        "android_client_info": {
+          "package_name": "com.varun.drivebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492911147763-ud5n3eaei43g0fo8qm8h9u28cl6gb0b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varun.drivebuddy",
+            "certificate_hash": "ef362ae16160ffe84e11bb36f2f28bed11ed3ebf"
+          }
+        },
+        {
+          "client_id": "492911147763-c9g7fk5o2n9mearvnkla4gumialj2irv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjMnl18ZYqq0C-IxIu0_pLMLR_MFxiIQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492911147763-c9g7fk5o2n9mearvnkla4gumialj2irv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
